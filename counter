@@ -1,0 +1,4 @@
+CREATE PROCEDURE counter()
+BEGIN
+SELECT gid,COUNT((gid)) AS owners FROM OWNS GROUP by gid ORDER BY owners DESC;
+END
