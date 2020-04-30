@@ -1,8 +1,5 @@
 # vlibrary
 A simple video game store/library manager
 
-My DBMS project.
-Just run this shit using xampp(php and mysql) and your done.
-
-
-iisadjasdijdiasjiasdjasdjijasdijasdijasdi
+My 2nd year DBMS project.
+Run using XAMPP with php.
